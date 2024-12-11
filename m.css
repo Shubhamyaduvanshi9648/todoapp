@@ -1,0 +1,18 @@
+h1{
+    font-weight: 900;
+    font-size:30px;
+    margin:10px;
+    margin-bottom:50px;
+
+}
+input{
+    width: 100%;
+}
+.hi{
+    text-align:left;
+}
+button{
+    width: 200px;
+    padding:10px;
+    gap:5px;
+}
